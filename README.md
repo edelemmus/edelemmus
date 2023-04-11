@@ -178,6 +178,12 @@
       </a>
       <br>Vim
     </td>
+   <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/Mac_operating_systems" >
+        <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/MacOS_original_logo.svg" width="48" height="48" alt="MacOS" />
+      </a>
+      <br>MacOS
+    </td>
   </tr>
 </table>
 
