@@ -186,19 +186,19 @@
     </td>
    <td align="center" width="96">
       <a href="https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/" >
-        <img src="https://en.wikipedia.org/wiki/CUDA#/media/File:Nvidia_CUDA_Logo.jpg" width="48" height="48" alt="CUDA" />
+        <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-d.png" width="48" height="48" alt="CUDA" />
       </a>
       <br>CUDA
     </td>
    <td align="center" width="96">
       <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" >
-        <img src="https://lightgbm.readthedocs.io/en/v3.3.2/_images/LightGBM_logo_black_text.svg" width="48" height="48" alt="LightGBM" />
+        <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" width="48" height="48" alt="LightGBM" />
       </a>
       <br>LightGBM
     </td>
    <td align="center" width="96">
       <a href="https://xgboost.readthedocs.io/en/stable/#" >
-        <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="48" height="48" alt="XGBoost" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48" alt="XGBoost" />
       </a>
       <br>XGBoost
     </td>
