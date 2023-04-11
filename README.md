@@ -5,7 +5,7 @@
 
 <h1 align="center"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hello.png"/>, I'm Emerson!</h1>
 <p align="center">
- <img alig src = "https://github-profile-trophy.vercel.app/?username=emersondelemmus&theme=dracula" />
+ <img alig src = "https://github-profile-trophy.vercel.app/?username=edelemmus&theme=dracula" />
 </p>
 
 
@@ -172,5 +172,6 @@
 
 
 [![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=edelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[![emkun's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=emersondelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=edelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[
+![emkun's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=edelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
