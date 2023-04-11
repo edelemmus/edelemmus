@@ -142,13 +142,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://scikit-learn.org/stable/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="sklearn" />
       </a>
       <br>sklearn
     </td>
     <td align="center" width="96">
       <a href="https://www.oracle.com/java/" >
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="java" />
       </a>
       <br>Java
     </td>
@@ -156,15 +156,27 @@
   <tr>
    <td align="center" width="96">
       <a href="https://github.com/pyenv" >
-        <img src="https://avatars.githubusercontent.com/u/16530698?s=200&v=4" width="48" height="48" alt="Python" />
+        <img src="https://avatars.githubusercontent.com/u/16530698?s=200&v=4" width="48" height="48" alt="pyenv" />
       </a>
       <br>pyenv
     </td>
    <td align="center" width="96">
       <a href="https://jupyter.org/" >
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Python" />
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="jupter" />
       </a>
       <br>Jupyter
+    </td>
+   <td align="center" width="96">
+      <a href="https://github.com/tmux/tmux/wiki" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" width="48" height="48" alt="tmux" />
+      </a>
+      <br>tmux
+    </td>
+   <td align="center" width="96">
+      <a href="https://www.vim.org/" >
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48" height="48" alt="tmux" />
+      </a>
+      <br>tmux
     </td>
   </tr>
 </table>
