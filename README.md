@@ -2,13 +2,6 @@
 <a href="https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1?si=67b666fbca574e14"><img width="511" height="400" src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/quotable_quote_stretch.png"></a>
 </p>
 
-<p align="center">
-<img src = "https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hourglass-timer.gif" width="15"/> <b> Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 27.5 % </b>
-</p>
-<p align="center">
-⏰ Updated on Tue, 11 Apr 2023 12:05:17 GMT
-</p>
-
 
 <h1 align="center"> <img height="80" img src="https://github.com/emersondelemmus/emersondelemmus/blob/master/img/hello.png"/>, I'm Emerson!</h1>
 <p align="center">
@@ -178,6 +171,6 @@
 <code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
 
-[![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emersondelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=emersondelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[![emkun's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=emersondelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=edelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[![emkun's github activity](https://github-readme-activity-graph.cyclic.app/graph?username=emersondelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
