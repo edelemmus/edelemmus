@@ -202,6 +202,12 @@
       </a>
       <br>XGBoost
     </td>
+   <td align="center" width="96">
+      <a href="https://ocw.mit.edu/" >
+        <img src="https://www.vectorlogo.zone/logos/mitedu/mitedu-icon.svg" width="48" height="48" alt="OCW" />
+      </a>
+      <br>opencourseware
+    </td>
   </tr>
 </table>
 
