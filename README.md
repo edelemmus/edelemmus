@@ -174,9 +174,9 @@
     </td>
    <td align="center" width="96">
       <a href="https://www.vim.org/" >
-        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48" height="48" alt="tmux" />
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48" height="48" alt="vim" />
       </a>
-      <br>tmux
+      <br>Vim
     </td>
   </tr>
 </table>
