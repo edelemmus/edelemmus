@@ -186,7 +186,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://docs.nvidia.com/cuda/cuda-compiler-driver-nvcc/" >
-        <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/01-nvidia-logo-vert-500x200-2c50-d.png" width="48" height="48" alt="CUDA" />
+        <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="48" height="48" alt="CUDA" />
       </a>
       <br>CUDA
     </td>
@@ -198,7 +198,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://xgboost.readthedocs.io/en/stable/#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="48" height="48" alt="XGBoost" />
+        <img src="https://images.opencollective.com/xgboost/3a1e64e/logo/192.png" width="48" height="48" alt="XGBoost" />
       </a>
       <br>XGBoost
     </td>
