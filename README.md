@@ -152,6 +152,18 @@
       </a>
       <br>Java
     </td>
+       <td align="center" width="96">
+      <a href="https://github.com/pyenv" >
+        <img src="https://avatars.githubusercontent.com/u/16530698?s=200&v=4" width="48" height="48" alt="Python" />
+      </a>
+      <br>pyenv
+    </td>
+   <td align="center" width="96">
+      <a href="https://jupyter.org/" >
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Jupyter
+    </td>
   </tr>
 </table>
 
