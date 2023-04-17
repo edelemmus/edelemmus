@@ -147,10 +147,10 @@
       <br>sklearn
     </td>
     <td align="center" width="96">
-      <a href="https://www.oracle.com/java/" >
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="48" height="48" alt="java" />
+      <a href="https://openai.com/" >
+        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/openai.svg" width="48" height="48" alt="OpenAI" />
       </a>
-      <br>Java
+      <br>OpenAI
     </td>
   </tr>
   <tr>
@@ -168,7 +168,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://github.com/tmux/tmux/wiki" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" width="48" height="48" alt="tmux" />
+        <img src="https://vectorwiki.com/images/LWEdW__tmux.svg" width="48" height="48" alt="tmux" />
       </a>
       <br>tmux
     </td>
@@ -192,7 +192,7 @@
     </td>
    <td align="center" width="96">
       <a href="https://lightgbm.readthedocs.io/en/v3.3.2/" >
-        <img src="https://github.com/microsoft/LightGBM/blob/master/docs/logo/LightGBM_logo_black_text.svg" width="48" height="48" alt="LightGBM" />
+        <img src="https://github.com/valohai/ml-logos/blob/master/lightgbm_on_spark.svg" width="48" height="48" alt="LightGBM" />
       </a>
       <br>LightGBM
     </td>
@@ -209,8 +209,21 @@
       <br>opencourseware
     </td>
   </tr>
+  <tr>
+  <td align="center" width="96">
+      <a href="https://seaborn.pydata.org/index.html" >
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" width="48" height="48" alt="Seaborn" />
+      </a>
+      <br>seaborn
+    </td>
+  <td align="center" width="96">
+      <a href="https://keras.io/" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" alt="keras" />
+      </a>
+      <br>Keras
+    </td>
+  </tr>
 </table>
-
 
 
 
