@@ -261,8 +261,6 @@
 <code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelemmus)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![emkun's github activity](https://github-readme-activity-graph.cyclic.app?username=edelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
