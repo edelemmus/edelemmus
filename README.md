@@ -264,6 +264,5 @@
 
 
 [![emkun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)[
 ![emkun's github activity](https://github-readme-activity-graph.cyclic.app?username=edelemmus&theme=react-dark&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
