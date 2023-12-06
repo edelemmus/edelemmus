@@ -240,6 +240,12 @@
       </a>
       <br>neo4j
     </td>
+   <td align="center" width="96">
+      <a href="https://kedro.org/" >
+        <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/kedro.svg" width="48" height="48" alt="kedro" />
+      </a>
+      <br>kedro
+    </td>
   </tr>
 </table>
 
