@@ -263,5 +263,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelemmus&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edelemmus)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edelemmus&theme=cottoncandy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
