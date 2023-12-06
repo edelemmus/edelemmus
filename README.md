@@ -10,13 +10,15 @@
 
 
 - 🔭 I’m currently working on **kaggle competitions**
-- 🌱 I’m currently learning **optimisation w/genetic algorithms**
-- 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T and higher education.** 
+- 🌱 I’m currently learning **optimisation with genetic algorithms**
+- 💬 Ask me about anything! Some faves are **computer vision, VALORCAN'T, and higher education.** 
 - 📫 How to reach me: check out [**my linkedin**](https://www.linkedin.com/in/edelemmus/)!
 - 😄 Pronouns: (he/him/his)
 
 ## ✨ My Contributions:
 - [X] [UAS-Based Real-Time Detection of Red-Cockaded Woodpecker Cavities in Heterogeneous Landscapes Using YOLO Object Detection Algorithms](https://www.mdpi.com/2072-4292/15/4/883) : Co-Author.
+- [X] [Cotton Care: Harnessing Transfer Learning for Real-Time Health Assessment with Mobile Devices](https://ieeexplore.ieee.org/document/10210231) : Co-Author.
+- [X] [DETECTION OF RED-COCKADED WOODPECKER HABITATS USING YOLO ALGORITHMS](https://shsu-ir.tdl.org/items/f738cc1b-6ed2-47a7-8045-3fdacc78a1cf) : Principal Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
 ## :link: Links:
