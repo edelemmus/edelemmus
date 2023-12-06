@@ -21,7 +21,7 @@
 - [X] [DETECTION OF RED-COCKADED WOODPECKER HABITATS USING YOLO ALGORITHMS](https://shsu-ir.tdl.org/items/f738cc1b-6ed2-47a7-8045-3fdacc78a1cf) : Principal Author.
 - [X] [YOLO Image Tiling](https://github.com/emersondelemmus/yolo-tiling) : Added various improvements.
 
-## :link: Links:
+## 🔗 Links:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edelemmus/"><img height="75" img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin"/></a>
