@@ -261,6 +261,6 @@
 <code><a href="" target="_blank"><img height="55" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="70" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></a></code>-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelemmus)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelemmus&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
